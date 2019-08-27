@@ -1,0 +1,7 @@
+show databases;
+# is for displayind databases in the mysql server
+#For creating database the syntax is :
+create database databasename;
+for eg:
+create database vanshita;
+create database pinky;
